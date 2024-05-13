@@ -9,10 +9,10 @@ proyectos y mis intereses.
 * Nombre:Ismael Yumipanta
 * Ocupación: Estudiante de ing en computacion
 * Lugar de residencia: Ecuador-Guayaquil
-* Sitio web: [Tu sitio web]
+* Sitio web: @IsmaelYumipanta
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
--Codificar
--la Musica
--Deporte
+*Codificar
+*la Musica
+*Deporte
