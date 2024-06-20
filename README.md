@@ -18,6 +18,6 @@
 - [Proyecto 2](https://github.com/IsmaelYumi/DKMotor): Proyecto de pagina we dkmotor
 
 ### Estadísticas de GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=IsmaelYumi&show_icons=true&theme=radical)
 ### Gracias por visitar mi perfil. ¡Espero podamos conectar pronto!
 
