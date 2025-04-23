@@ -12,6 +12,10 @@
 ### Lenguajes y herramientas
 ![Lenguajes](https://img.shields.io/badge/Lenguajes-JavaScript%20%7C%20Python%20%7C%20Java-brightgreen)
 ![Herramientas](https://img.shields.io/badge/Herramientas-VSCode%20%7C%20Git%20%7C%20Docker-blue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 ### Proyectos destacados
 - [Proyecto 1](https://github.com/IsmaelYumi/LandingPage): Proyecto de landingPage
